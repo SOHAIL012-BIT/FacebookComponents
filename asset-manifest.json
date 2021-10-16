@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FacebookComponents/static/css/main.2b145dfb.chunk.css",
+    "main.js": "/FacebookComponents/static/js/main.e41e2719.chunk.js",
+    "main.js.map": "/FacebookComponents/static/js/main.e41e2719.chunk.js.map",
+    "runtime-main.js": "/FacebookComponents/static/js/runtime-main.e7c6b73f.js",
+    "runtime-main.js.map": "/FacebookComponents/static/js/runtime-main.e7c6b73f.js.map",
+    "static/js/2.abc65c97.chunk.js": "/FacebookComponents/static/js/2.abc65c97.chunk.js",
+    "static/js/2.abc65c97.chunk.js.map": "/FacebookComponents/static/js/2.abc65c97.chunk.js.map",
+    "static/js/3.1061ccad.chunk.js": "/FacebookComponents/static/js/3.1061ccad.chunk.js",
+    "static/js/3.1061ccad.chunk.js.map": "/FacebookComponents/static/js/3.1061ccad.chunk.js.map",
+    "index.html": "/FacebookComponents/index.html",
+    "static/css/main.2b145dfb.chunk.css.map": "/FacebookComponents/static/css/main.2b145dfb.chunk.css.map",
+    "static/js/2.abc65c97.chunk.js.LICENSE.txt": "/FacebookComponents/static/js/2.abc65c97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7c6b73f.js",
+    "static/js/2.abc65c97.chunk.js",
+    "static/css/main.2b145dfb.chunk.css",
+    "static/js/main.e41e2719.chunk.js"
+  ]
+}
